@@ -1,12 +1,2 @@
-Hi Faazil/Raj, 
-
-Welcome to Devops Class. 
-
-Regards,
-Ranjith M 
-
-hi bro thanks for inviting me.
-
-by fazil
- 
- testing for merge
+#!/bin/bash
+echo "Welcome to Devops Session"
