@@ -1,3 +1,6 @@
 hello
 
 Welcome to Devops Session - Somiya
+
+Git session
+
